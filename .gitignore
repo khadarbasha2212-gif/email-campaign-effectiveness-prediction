@@ -26,6 +26,9 @@ Thumbs.db
 # Local datasets and generated model artifacts
 data/
 models/
+!models/
+models/*
+!models/weighted_xgboost_pipeline.joblib
 
 # Optional: generated evaluation outputs
 # Uncomment if you don't want to track generated reports
