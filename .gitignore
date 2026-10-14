@@ -1,0 +1,32 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+
+# Local datasets and generated model artifacts
+data/
+models/
+
+# Optional: generated evaluation outputs
+# Uncomment if you don't want to track generated reports
+# reports/

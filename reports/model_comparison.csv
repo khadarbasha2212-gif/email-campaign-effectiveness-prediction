@@ -1,0 +1,6 @@
+Model,Accuracy,Balanced Accuracy,Macro F1
+Logistic Regression,0.6127,0.5183,0.39
+Scaled Logistic Regression,0.6279,0.5267,0.4
+Random Forest,0.6727,0.5113,0.44
+XGBoost,0.8133,0.3837,0.39
+Class-weighted XGBoost,0.6501,0.535,0.43
